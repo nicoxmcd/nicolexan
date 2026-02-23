@@ -13,5 +13,6 @@
 | [ExerQ](https://main.d3iv8nh98y2vwl.amplifyapp.com/) | AWS Amplify hosted web-app utilzing Bedrock, lambda, DynamoDB to streamline workout routines |
 | [BAM Monitoring](https://bam-monitoring.my.canva.site/) | Wireless Sensor Network connected to our AI model which sends information to our application written in Kotlin |
 | Gumiho Tradings | DevOps Principles, algorithms, trading automation |
-| [Project Sea Turtles](https://nicoxmcd.github.io/Project-SeaTurtles) | Frontend website spreading awareness about sea turtles & celebrating women in STEM |
+| [Project Sea Turtles](https://nicolexan.github.io/Project-SeaTurtles) | Frontend website spreading awareness about sea turtles & celebrating women in STEM |
+
 
