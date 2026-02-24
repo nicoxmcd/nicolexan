@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole!
 - 💻 B.E. Computer Engineering (Concentration in Network Security) @ Stevens Institute of Technology
-- 💼 DevOps Engineer for Development Services Team & the AWS Cloud Infra Engineer for our new product team @ SPHERE Technology Solutions
+- 💼 Cloud DevOps Engineer for the Development Services Team @ SPHERE Technology Solutions
 - 👀 Currently learning so much at my position about networking and security in AWS!
 - ☁️ My DevSecOps project, ExerQ, focuses on utilizing AWS to deploy a web-app to output workout routines
 - 🌱 I'm focused on growing my AWS skills and learning Terraform and automation
@@ -14,5 +14,6 @@
 | [BAM Monitoring](https://bam-monitoring.my.canva.site/) | Wireless Sensor Network connected to our AI model which sends information to our application written in Kotlin |
 | Gumiho Tradings | DevOps Principles, algorithms, trading automation |
 | [Project Sea Turtles](https://nicolexan.github.io/Project-SeaTurtles) | Frontend website spreading awareness about sea turtles & celebrating women in STEM |
+
 
 
